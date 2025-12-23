@@ -1,0 +1,5 @@
+# Jose Antonio Vega
+## Welcome to My Data & Analytics Portfolio
+This repository is a curated collection of the projects that have shaped me into the analyst I am becoming. From machine learning models and fraud detection pipelines to cultural research in Oaxaca and dashboard engineering in Streamlit, each project reflects a different part of my journey: technical curiosity, global perspective, and a commitment to telling clear, meaningful stories with data.
+Here you’ll find work that blends analytics, communication, and real‑world problem‑solving: regression studies on student performance, leadership‑style evaluations, fraud modeling challenges, interactive dashboards, and even rapid‑fire “data storytelling” drills. These projects pushed me to think critically, design responsibly, and build solutions that serve people, not just datasets.
+This portfolio isn’t just a showcase of code. It’s a record of how I’ve grown through every challenge, every dataset, and every story waiting to be uncovered.
