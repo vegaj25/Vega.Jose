@@ -1,2 +1,2 @@
-# Jose Antonio Vega
-Welcome to my personal project repository. Where I have a collection of analytics, machine learning, and data‑driven problem‑solving work. This space highlights the projects I’ve built to sharpen my technical skills, explore new tools, and demonstrate my ability to turn complex data into clear, actionable insights.
+# FIFA Balon D' Or
+I designed and deployed an interactive Streamlit dashboard showcasing performance insights for the top 30 Ballon d’Or players of 2024. After cleaning and structuring raw player statistics, I built a relational SQLite database and integrated dynamic Python queries to power real‑time comparisons across metrics like goals, assists, efficiency, and match impact. The final dashboard delivers a smooth, data‑driven experience that allows users to explore how the world’s best players stack up through intuitive visuals and customizable filters
